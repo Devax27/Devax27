@@ -1,4 +1,3 @@
-# Hi 👋 I'm Devansh Gupta
 <h1 align="center">Hi 👋 I'm Devansh Gupta</h1>
 
 <p align="center">
