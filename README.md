@@ -24,6 +24,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devax27\&layout=compact\&theme=radical)
 
 
+![Snake animation](https://github.com/Devax27/Devax27/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **Devax27/Devax27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
