@@ -83,7 +83,11 @@ Chess improves my **strategic thinking and problem-solving**, just like building
 
 🔗 Chess.com Profile:
 https://www.chess.com/member/devanshgupta27
+
+
 ![Chess Stats](https://chesscom-profile-preview.vercel.app/api/v1/user/devanshgupta27/stats)
+
+
 ![Chess](https://img.shields.io/badge/Chess-Strategic%20Thinking-black?style=for-the-badge&logo=chess.com&logoColor=white)
 > ♟️ “Chess is the gymnasium of the mind.” – Blaise Pascal
 
