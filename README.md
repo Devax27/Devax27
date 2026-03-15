@@ -78,18 +78,20 @@ Predict visa approval probability and processing time.
 
 ### ♟️ Chess
 
-I enjoy playing chess and solving tactical puzzles. Chess improves my strategic thinking and problem-solving, just like building ML models.
+I enjoy playing **chess** and solving tactical puzzles.
+Chess helps me improve **strategic thinking, pattern recognition, and decision-making** — skills I also apply while building **AI, Machine Learning, and Data Science projects**.
 
-🔗 Chess.com Profile:  
-https://www.chess.com/member/devanshgupta27
+🔗 **Chess.com Profile:**
+[devanshgupta27](https://www.chess.com/member/devanshgupta27)
 
-![Chess.com Stats](https://chesscom-profile-preview.vercel.app/api/v1/user/devanshgupta27)
+![Chess.com](https://img.shields.io/badge/Chess.com-devanshgupta27-81B64C?style=for-the-badge\&logo=chess.com\&logoColor=white)
 
-![Chess](https://img.shields.io/badge/Chess-Strategic%20Thinking-black?style=for-the-badge&logo=chess.com&logoColor=white)
+> ♟️ *“Chess is the gymnasium of the mind.”* — Blaise Pascal
 
-> ♟️ “Chess is the gymnasium of the mind.” – Blaise Pascal  
+<p align="center">
+<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="300">
+</p>
 
-Just like chess, I enjoy solving complex problems in **AI, Machine Learning, and Data Science**.
 
 
 ![Snake animation](https://github.com/Devax27/Devax27/blob/output/github-contribution-grid-snake.svg)
