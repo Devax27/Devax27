@@ -1,12 +1,19 @@
 # Hi 👋 I'm Devansh Gupta
+<h1 align="center">Hi 👋 I'm Devansh Gupta</h1>
 
+<p align="center">
 🎓 Computer Science Student
 🤖 Interested in AI, Machine Learning & NLP
 💻 Python | Machine Learning | Data Science | 
 🚀 Building AI projects and exploring real-world ML applications
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=AI+Developer;Machine+Learning+Engineer;Python+Developer">
+</p>
 
-🔗 LinkedIn: https://linkedin.com/in/devansh-gupta-6a8a20259
-🔗 GitHub: https://github.com/Devax27
+### 🌐 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/devansh-gupta-6a8a20259
+- 💻 GitHub: https://github.com/Devax27
 
 ## 🛠 Tech Stack
 
@@ -23,6 +30,20 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devax27\&layout=compact\&theme=radical)
 
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Devax27&theme=radical)
+
+### 🚀 Featured Projects
+
+🧠 **Mental Health Detection Using AI**  
+Machine learning model for detecting mental health conditions using NLP.
+
+💳 **Online Payment Fraud Detection**  
+ML model for detecting fraudulent financial transactions.
+
+🛂 **AI Visa Processing Estimator**  
+Predict visa approval probability and processing time.
 
 ![Snake animation](https://github.com/Devax27/Devax27/blob/output/github-contribution-grid-snake.svg)
 
