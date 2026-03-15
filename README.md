@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi 👋 I'm Devansh Gupta
+
+🎓 Computer Science Student
+🤖 Interested in AI, Machine Learning & NLP
+💻 Python | Machine Learning | Data Science | 
+🚀 Building AI projects and exploring real-world ML applications
+
+🔗 LinkedIn: https://linkedin.com/in/devansh-gupta-6a8a20259
+🔗 GitHub: https://github.com/Devax27
+
 
 <!--
 **Devax27/Devax27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
