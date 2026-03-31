@@ -54,15 +54,15 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
 
-
 ## 📊 GitHub Summary
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Devax27/Devax27/main/profile-summary-card-output/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/Devax27/Devax27/main/profile-summary-card-output/aura_dark/0-profile-details.svg" />
 </p>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Devax27/Devax27/main/profile-summary-card-output/1-repos-per-language.svg" />
-  <img src="https://raw.githubusercontent.com/Devax27/Devax27/main/profile-summary-card-output/2-most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/Devax27/Devax27/main/profile-summary-card-output/aura_dark/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/Devax27/Devax27/main/profile-summary-card-output/aura_dark/2-most-commit-language.svg" />
 </p>
 
 ### 🔥 GitHub Streak
