@@ -1,0 +1,17 @@
+name: Generate GitHub Summary Cards
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          USERNAME: Devax27
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
