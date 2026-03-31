@@ -60,7 +60,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Devax27/Devax27/main/profile-summary-card-output/0-profile-details.svg" />
 </p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Devax27/Devax27/main/profile-summary-card-output/1-repos-per-language.svg" />
   <img src="https://raw.githubusercontent.com/Devax27/Devax27/main/profile-summary-card-output/2-most-commit-language.svg" />
