@@ -55,11 +55,17 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Summary
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Devax27&show_icons=true)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Devax27/Devax27/main/profile-summary-card-output/0-profile-details.svg" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devax27&layout=compact)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Devax27/Devax27/main/profile-summary-card-output/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/Devax27/Devax27/main/profile-summary-card-output/2-most-commit-language.svg" />
+</p>
+
 ### 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Devax27&theme=radical)
