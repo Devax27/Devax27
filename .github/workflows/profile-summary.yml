@@ -1,4 +1,4 @@
-name: Generate GitHub Summary Cards
+name: GitHub Summary Cards
 
 on:
   schedule:
@@ -9,8 +9,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Generate cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: Devax27
         env:
