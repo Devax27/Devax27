@@ -57,9 +57,9 @@
 
 ## 📊 GitHub Stats
 
-![Devansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devax27&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Devax27&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devax27&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devax27&layout=compact)
 ### 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Devax27&theme=radical)
